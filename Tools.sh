@@ -11,40 +11,40 @@ echo
 toilet -f big -F gay BY QILLA
 echo
 sleep 2
-echo $red"__________________________________________________"
+echo "__________________________________________________"
 echo
-echo $red"Author : raqilla arta"
+echo "Author : raqilla arta"
 echo
-echo $red"Youtube : riswadi arta"
+echo "Youtube : riswadi arta"
 echo
-echo $red"__________________________________________________"
+echo "__________________________________________________"
 echo
-echo $red"selamat datang di tools ini"
+echo "selamat datang di tools ini"
 echo
 sleep 2
-echo $yellow"silahkan pilih tools nya :"
+echo "silahkan pilih tools nya :"
 echo
-echo $blue"1.)install bahan dulu bagi yang belum"
+echo "1.)install bahan dulu bagi yang belum"
 echo
-echo $purple"2.)stabilkan jaringan"
+echo "2.)stabilkan jaringan"
 echo
-echo $red"3.)hack fb id:Termux password:omaliptv"
+echo "3.)hack fb id:Termux password:omaliptv"
 echo
-echo $yellow"4.)deface + script deface"
+echo "4.)deface + script deface"
 echo
-echo $cyan"5.)spam tools"
+echo "5.)spam tools"
 echo
-echo $blue"6.)nuyul aplikasi lengkap"
+echo "6.)nuyul aplikasi lengkap"
 echo
-echo $yellow"7.)ubah tampilan termux keren"
+echo "7.)ubah tampilan termux keren"
 echo
-echo $cyan"8.)buat web phising weeman facebook"
+echo "8.)buat web phising weeman facebook"
 echo
-echo $yellow"9.)buat akses login"
+echo "9.)buat akses login"
 echo
-echo $red"0.)mau keluar lewat sini aja ya :)"
+echo "0.)mau keluar lewat sini aja ya :)"
 echo
-echo $yellow
+echo
 read -p "pilih mana woy :" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
@@ -139,11 +139,11 @@ fi
 if [ $bro = 0 ] || [ $bro = 0 ]
 then
 clear
-echo $yellow
+echo
 figlet "BYE"
-echo $green"terimakasih sudah menggunakan tools ini"
-echo $green"jangan lupa kembali lagi"
-echo $green"dan subscribe channel riswadi arta"
+echo "terimakasih sudah menggunakan tools ini"
+echo "jangan lupa kembali lagi"
+echo "dan subscribe channel riswadi arta"
 sleep 3
 exit
 fi
